@@ -1,0 +1,9 @@
+# Ignore system files
+.bash_history
+*.lock
+*.pub
+
+# Ignore build and config files
+*.keystore
+*.ini
+*.key
